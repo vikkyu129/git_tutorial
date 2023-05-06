@@ -1,3 +1,4 @@
 Hello this is a new file
 Adding a new  line
 Adding a second new line
+Adding another line @ 8:25
